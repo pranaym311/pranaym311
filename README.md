@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pranaym311
 - 👀 I’m interested in Python/data science Projects
 - 🌱 I’m currently learning Machine learning concepts
-- 💞️ I’m looking to collaborate on projects whic include anything about data science
+- 💞️ I’m looking to collaborate on projects which include anything about data science
 - 📫 How to reach me on mail pranaymbest1@gmail.com
 
 <!---
